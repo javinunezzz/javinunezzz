@@ -4,7 +4,7 @@
 <h3 align="center">Estudiante de desarrollo web | Apasionado por aprender, crear y colaborar 🚀</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/14f536b4-0d70-4cc4-8264-ba30dcaa4de7" width="80" alt="logo"/>
+  <img src="https://github.com/user-attachments/assets/d98747d4-d9fa-4a98-b4f7-5bfebe2bf52e" width="80" alt="logo"/>
 </p>
 
 <h4 align="center">
