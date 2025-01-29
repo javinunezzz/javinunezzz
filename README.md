@@ -19,7 +19,7 @@
 
 ¡Hola! Soy **Javier Nuñez Tabales**, un **desarrollador web** en constante evolución.
 
-🔍 Actualmente, estoy perfeccionando mis habilidades en el Grado Superior de DAW2: **Docker, Laravel, Spring Boot, JavaScript, HTML, CSS**, y explorando frameworks como **Node.js**. También, trabajo con herramientas como **Git** y **GitHub**.
+🔍 Actualmente, estoy perfeccionando mis habilidades en el Grado Superior de DAW2: **Docker, Laravel, Spring Boot, Angular, JavaScript, HTML, CSS**, y explorando frameworks como **Node.js**. También, trabajo con herramientas como **Git** y **GitHub**.
 
 - 🌱 **Habilidades**: Docker, Laravel, Spring Boot, Angular, JavaScript, HTML, CSS, PHP, Node.js, MySQL, Git, GitHub.
 - 🔧 **Herramientas**: VS Code, IntelliJ, Docker, GitHub, Postman.
