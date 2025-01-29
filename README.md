@@ -29,11 +29,6 @@
 
 ## 📈 Estadísticas de GitHub
 
-### Mi racha de contribuciones:
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=javinunezzz&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5" height="150" alt="streak graph" />
-</div>
-
 ### Actividad reciente:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=javinunezzz&radius=16&theme=react&area=true&order=5" height="300" alt="activity graph" />
