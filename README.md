@@ -9,7 +9,7 @@
 
 <h4 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&center=true&vCenter=true&width=800&color=26F766&lines=La+programación+es+mi+pasión+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=2000&center=true&vCenter=true&width=800&color=26F766&lines=La+programaci%C3%B3n+es+mi+pasi%C3%B3n+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </h4>
 
