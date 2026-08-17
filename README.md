@@ -69,7 +69,7 @@ Soy **Javier Nuñez Tabales**, desarrollador web **Full Stack** con base sólida
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-### 🤖 IA / Big Data (en progreso)
+### 🤖 IA / Big Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -99,9 +99,6 @@ Soy **Javier Nuñez Tabales**, desarrollador web **Full Stack** con base sólida
 ### 🎾 Gestor de Pistas de Pádel
 - Sistema de **reservas de pistas** con gestión de **usuarios**, **horarios** y disponibilidad.
 - **Stack**: HTML · CSS · JavaScript · Firebase  
-
-### 🤖 IA / Big Data (en construcción)
-- 🧠 **Proyecto IA**
 
 ---
 
