@@ -1,138 +1,164 @@
-<h1 align="center">Hola, soy Javier Nuñez Tabales 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Desarrollador Web Full Stack</b> • <b>IA</b> • <b>Big Data</b> • Aprendiz constante 🚀
+  <img src="https://github.com/user-attachments/assets/d98747d4-d9fa-4a98-b4f7-5bfebe2bf52e" width="96" alt="Logotipo de Javier Núñez Tabales" />
+
+  <h1>Javier Núñez Tabales</h1>
+
+  <h3>Full Stack Developer · Inteligencia Artificial · Big Data</h3>
+
+  <p>
+    Desarrollo productos web de extremo a extremo y sigo especializándome<br/>
+    en soluciones que conectan software, datos e inteligencia artificial.
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/javier-n%C3%BA%C3%B1ez-tabales-343737308/">
+      <img src="https://img.shields.io/badge/LinkedIn-Ver%20perfil-0D1117?style=for-the-badge&logo=linkedin&logoColor=26F766" alt="Perfil de LinkedIn de Javier Núñez Tabales" />
+    </a>
+    <a href="mailto:javint321@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Enviar%20correo-0D1117?style=for-the-badge&logo=gmail&logoColor=26F766" alt="Enviar un correo a Javier Núñez Tabales" />
+    </a>
+    <a href="https://github.com/javinunezzz?tab=repositories">
+      <img src="https://img.shields.io/badge/GitHub-Ver%20proyectos-0D1117?style=for-the-badge&logo=github&logoColor=26F766" alt="Repositorios de GitHub" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+## 👨‍💻 Perfil profesional
+
+Soy desarrollador web **Full Stack**, titulado en **Desarrollo de Aplicaciones Web (DAW)** y actualmente especializándome en **Inteligencia Artificial y Big Data**.
+
+Me gusta construir aplicaciones completas: desde la interfaz y la experiencia de usuario hasta la API, la lógica de negocio, la persistencia de datos y el despliegue. Durante mis prácticas en **Teybik** trabajé en tareas de frontend y backend, integración de APIs REST, gestión de datos y control de versiones con Git.
+
+- 🎯 **Objetivo:** aportar valor en productos reales combinando desarrollo, datos e IA aplicada.
+- 🧠 **Foco actual:** Python, análisis de datos, machine learning y tecnologías Big Data.
+- 🤝 **Intereses:** desarrollo Full Stack, backend, APIs, automatización y soluciones basadas en datos.
+
+---
+
+## 🚀 Proyecto destacado
+
+### NoteShare — Plataforma full stack para compartir apuntes
+
+**NoteShare** es una aplicación web orientada a estudiantes que permite publicar, organizar, visualizar y descargar apuntes en PDF. El proyecto está dividido en un frontend Angular y una API REST desarrollada con Laravel.
+
+| Área | Funcionalidades |
+|---|---|
+| **Autenticación** | Registro, inicio de sesión, verificación de correo y recuperación de contraseña |
+| **Usuarios y permisos** | Roles `ADMIN`, `PREMIUM` y `FREE` con accesos diferenciados |
+| **Gestión de apuntes** | Publicación, edición, búsqueda, filtros, favoritos, visualización y descarga de PDF |
+| **Administración** | Gestión de usuarios, categorías, asignaturas, apuntes, descargas y suscripciones |
+| **Producto** | Estadísticas personales, suscripciones e integración de servicios externos |
+
+**Stack:** Angular · TypeScript · Bootstrap · Laravel · PHP · Sanctum · MySQL · Docker
+
+<p>
+  <a href="https://github.com/javinunezzz/tfc-front">
+    <img src="https://img.shields.io/badge/Frontend-Angular-0D1117?style=for-the-badge&logo=angular&logoColor=26F766" alt="Código del frontend de NoteShare" />
+  </a>
+  <a href="https://github.com/javinunezzz/tfc-back">
+    <img src="https://img.shields.io/badge/API%20REST-Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=26F766" alt="Código del backend de NoteShare" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/javinunezzz">
-    <img src="https://komarev.com/ghpvc/?username=javinunezzz&label=Visitas&color=26F766&style=flat" />
-  </a>
-  <a href="https://github.com/javinunezzz?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositorios-Ver%20proyectos-26F766?style=flat" />
-  </a>
-  <a href="https://www.linkedin.com/in/javier-n%C3%BA%C3%B1ez-tabales-343737308/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-26F766?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:javint321@gmail.com">
-    <img src="https://img.shields.io/badge/Email-javint321%40gmail.com-26F766?style=flat&logo=gmail&logoColor=white" />
-  </a>
+---
+
+## 🧰 Stack tecnológico
+
+### Desarrollo web
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=26F766" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=26F766" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=26F766" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=26F766" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Angular-0D1117?style=flat-square&logo=angular&logoColor=26F766" alt="Angular" />
+  <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=26F766" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=26F766" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=26F766" alt="Laravel" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square" alt="APIs REST" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=26F766" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=26F766" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=26F766" alt="Git" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d98747d4-d9fa-4a98-b4f7-5bfebe2bf52e" width="90" alt="logo"/>
+### Datos, IA y Big Data
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=26F766" alt="Python" />
+  <img src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=26F766" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=26F766" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=26F766" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=26F766" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=26F766" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=26F766" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-0D1117?style=flat-square&logo=apachespark&logoColor=26F766" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-0D1117?style=flat-square&logo=apachehadoop&logoColor=26F766" alt="Apache Hadoop" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-0D1117?style=flat-square&logo=apachekafka&logoColor=26F766" alt="Apache Kafka" />
 </p>
 
-<h4 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=2000&center=true&vCenter=true&width=900&color=26F766&lines=Construyo+productos+web+con+mentalidad+de+ingenier%C3%ADa+%F0%9F%92%BB;Ahora+enfocado+en+IA+y+Big+Data+%F0%9F%A7%A0;Me+gusta+aprender%2C+crear+y+colaborar+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</h4>
+<details>
+  <summary><strong>Más tecnologías y herramientas</strong></summary>
+  <br/>
 
----
-
-## 🚀 Sobre mí
-
-Soy **Javier Nuñez Tabales**, desarrollador web **Full Stack** con base sólida en desarrollo moderno y actualmente especializándome en **Inteligencia Artificial** y **Big Data**.
-
-- ✅ **FP Grado Superior: Desarrollo de Aplicaciones Web (DAW)**
-- 🧠 **Curso de Especialización: IA y Big Data**
-- 💼 **Prácticas de empresa**: Teybik
-- 🎯 Objetivo: aportar valor en proyectos reales combinando **desarrollo**, **datos** e **IA aplicada**
-
----
-
-## 🧰 Tech Stack
-
-### 💻 Web / Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![APIs REST](https://img.shields.io/badge/APIs%20REST-005571?style=flat)
-
-### 🎨 Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-### 🗄️ Datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-### 🤖 IA / Big Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-
-### ⚙️ Herramientas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
----
-
-## 🔥 Proyectos destacados
-
-### 📚 NoteShare — Plataforma de Apuntes (TFC)
-- Plataforma estilo Wuolah para **subir, visualizar y descargar apuntes** entre estudiantes.
-- **Stack**: Laravel · Angular · Bootstrap · MySQL  
-
-### 🎾 Gestor de Pistas de Pádel
-- Sistema de **reservas de pistas** con gestión de **usuarios**, **horarios** y disponibilidad.
-- **Stack**: HTML · CSS · JavaScript · Firebase  
-
----
-
-## 🎓 Formación y certificaciones
-- 🎓 **FP Grado Superior** — Desarrollo de Aplicaciones Web (DAW)
-- 🧠 **Curso de Especialización** — Inteligencia Artificial y Big Data
-- ✅ **Certificación** — AWS Cloud Practitioner
+  <p>
+    <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=26F766" alt="Java" />
+    <img src="https://img.shields.io/badge/Spring%20Boot-0D1117?style=flat-square&logo=springboot&logoColor=26F766" alt="Spring Boot" />
+    <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=26F766" alt="Node.js" />
+    <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=26F766" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=26F766" alt="SQLite" />
+    <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=26F766" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=26F766" alt="Firebase" />
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=26F766" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=26F766" alt="AWS" />
+    <img src="https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=26F766" alt="Postman" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=26F766" alt="GitHub" />
+  </p>
+</details>
 
 ---
 
 ## 💼 Experiencia
-**Teybik** — Prácticas de empresa  
-- Desarrollo de funcionalidades frontend y backend.  
-- Integración de APIs REST y manejo de datos.  
-- Control de versiones y trabajo con Git/GitHub.
+
+### Teybik — Prácticas de desarrollo
+
+- Desarrollo de funcionalidades de frontend y backend.
+- Integración y consumo de APIs REST.
+- Manejo, transformación y persistencia de datos.
+- Control de versiones y colaboración mediante Git y GitHub.
 
 ---
 
-## 📈 GitHub
+## 🎓 Formación y certificaciones
+
+- **FP de Grado Superior en Desarrollo de Aplicaciones Web (DAW)**
+- **Curso de Especialización en Inteligencia Artificial y Big Data** *(en curso)*
+- **Certificación AWS Cloud Practitioner**
+
+---
+
+## 📈 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=javinunezzz&radius=16&theme=react&area=true&order=5" alt="Gráfico de Actividad" />
-</p>
-
-<p align="center">
-  <img src="https://mis-github-stats.vercel.app/api?username=javinunezzz&show_icons=true&theme=react" alt="Estadísticas de GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://mis-github-stats.vercel.app/api/top-langs/?username=javinunezzz&layout=compact&theme=react" alt="Lenguajes más usados" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=javinunezzz&bg_color=0D1117&color=26F766&line=26F766&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Gráfico de actividad de Javier en GitHub" />
 </p>
 
 ---
 
-## 🤝 Contacto
-- 💼 **LinkedIn:** [Javier Núñez Tabales](https://www.linkedin.com/in/javier-n%C3%BA%C3%B1ez-tabales-343737308/)
-- 📩 **Email:** [javint321@gmail.com](mailto:javint321@gmail.com)
+<div align="center">
+
+### ¿Hablamos?
+
+Estoy interesado en colaborar en proyectos de desarrollo web, backend, datos e inteligencia artificial aplicada.
+
+<a href="https://www.linkedin.com/in/javier-n%C3%BA%C3%B1ez-tabales-343737308/">
+  <img src="https://img.shields.io/badge/LinkedIn-Javier%20N%C3%BA%C3%B1ez%20Tabales-0D1117?style=for-the-badge&logo=linkedin&logoColor=26F766" alt="LinkedIn de Javier Núñez Tabales" />
+</a>
+<a href="mailto:javint321@gmail.com">
+  <img src="https://img.shields.io/badge/Email-javint321%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=26F766" alt="Email de Javier Núñez Tabales" />
+</a>
+
+</div>
